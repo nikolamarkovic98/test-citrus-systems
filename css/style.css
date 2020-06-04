@@ -5,7 +5,7 @@
 html, body{
     position: relative;
     margin: 0;
-    /*padding-bottom: 20px;*/
+    padding-bottom: 40px;
     background-color: rgb(45, 26, 58);
     color: #f5eaca;
     font-size: 16px;
